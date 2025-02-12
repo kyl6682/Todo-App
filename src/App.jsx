@@ -107,7 +107,7 @@ function UpdateTodo({ todo, setTodoList }) {
       ) : (
         <span className="content"> {todo.content} </span>
       )}
-      <button onClick={handleEdit}>{isEditing ? "수정 완료" : "수정"}</button>
+      <button onClick={handleEdit}>{isEditing ? "추가" : "수정"}</button>
     </>
   );
 }
