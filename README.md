@@ -12,7 +12,7 @@
 - [x] 자유롭게 적용해보고 싶은 CSS를 작성해보세요.
 
 ## 결과 이미지
-![Todo-App 미리보기](assets/example.png)
+![Todo-App 미리보기](/src/assets/example.png)
 
 ## 구현 과정
-🔗 블로그 : [velog: ☑️ React로 간단한 Todo List 만들기]( https://velog.io/@jukdanglife/React%EB%A1%9C-%EA%B0%84%EB%8B%A8%ED%95%9C-Todo-List-%EB%A7%8C%EB%93%A4%EA%B8%B0)
+🔗 블로그 : [☑️ React로 간단한 Todo List 만들기]( https://velog.io/@jukdanglife/React%EB%A1%9C-%EA%B0%84%EB%8B%A8%ED%95%9C-Todo-List-%EB%A7%8C%EB%93%A4%EA%B8%B0)
